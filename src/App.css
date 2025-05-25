@@ -1,3 +1,18 @@
+body{
+    background-color: slategray;
+}
+
 canvas{
-    height: 100vh !important;
+    height: 500px !important;
+    
+}
+
+.container{
+    
+    max-width: 960px ;
+    margin: 0 auto;
+    background: #333;
+    color: #fff;
+    border-radius: 20px;
+    padding: 20px;
 }
